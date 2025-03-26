@@ -1,0 +1,6 @@
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs

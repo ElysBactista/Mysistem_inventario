@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZ1g0lDNUw4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.application\\Mysistem.application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

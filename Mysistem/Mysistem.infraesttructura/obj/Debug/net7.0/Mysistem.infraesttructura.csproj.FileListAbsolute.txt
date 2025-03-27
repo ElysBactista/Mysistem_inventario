@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\bin\Debug\net7.0\Mysistem.infraesttructura.deps.json
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\bin\Debug\net7.0\Mysistem.infraesttructura.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\bin\Debug\net7.0\Mysistem.infraesttructura.pdb
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\bin\Debug\net7.0\Mysistem.Domain.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\bin\Debug\net7.0\Mysistem.Domain.pdb
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.AssemblyInfo.cs
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.sourcelink.json
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.B5B5B1E8.Up2Date
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\refint\Mysistem.infraesttructura.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\Mysistem.infraesttructura.pdb
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.infraesttructura\obj\Debug\net7.0\ref\Mysistem.infraesttructura.dll

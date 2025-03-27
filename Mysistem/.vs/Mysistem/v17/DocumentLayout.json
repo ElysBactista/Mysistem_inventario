@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|solutionrelative:mysistem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|solutionrelative:mysistem.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5647EE84-8520-4A80-9F9B-6C7572C9C5BE}|Mysistem.api\\Mysistem.api.csproj|solutionrelative:mysistem.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.infraesttructura\\mysistem.infraesttructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|solutionrelative:mysistem.infraesttructura\\mysistem.infraesttructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B826C040-AF71-4C9D-9FF7-B8A70A5C67B3}|Mysistem.Domain\\Mysistem.Domain.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.domain\\mysistem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B826C040-AF71-4C9D-9FF7-B8A70A5C67B3}|Mysistem.Domain\\Mysistem.Domain.csproj|solutionrelative:mysistem.domain\\mysistem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.infraesttructura\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|solutionrelative:mysistem.infraesttructura\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B826C040-AF71-4C9D-9FF7-B8A70A5C67B3}|Mysistem.Domain\\Mysistem.Domain.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B826C040-AF71-4C9D-9FF7-B8A70A5C67B3}|Mysistem.Domain\\Mysistem.Domain.csproj|solutionrelative:mysistem.domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|c:\\users\\dell\\desktop\\mysistem.api\\mysistem\\mysistem.infraesttructura\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5734F9-30EC-4D52-ABBA-A6EA2FB29C96}|Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj|solutionrelative:mysistem.infraesttructura\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Mysistem.api\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Mysistem.api\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:02:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Program.cs",
+              "RelativeDocumentMoniker": "Mysistem.api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Program.cs",
+              "RelativeToolTip": "Mysistem.api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:20:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Mysistem.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Mysistem.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:40:23.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mysistem.infraesttructura",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj",
+              "RelativeDocumentMoniker": "Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj",
+              "RelativeToolTip": "Mysistem.infraesttructura\\Mysistem.infraesttructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T18:20:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mysistem.Domain",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.Domain\\Mysistem.Domain.csproj",
+              "RelativeDocumentMoniker": "Mysistem.Domain\\Mysistem.Domain.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.Domain\\Mysistem.Domain.csproj",
+              "RelativeToolTip": "Mysistem.Domain\\Mysistem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T18:20:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "applicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\applicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Mysistem.infraesttructura\\applicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\applicationDbcontext.cs",
+              "RelativeToolTip": "Mysistem.infraesttructura\\applicationDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:42:17.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.Domain\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Mysistem.Domain\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.Domain\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Mysistem.Domain\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T04:41:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\Empleado.cs",
+              "RelativeDocumentMoniker": "Mysistem.infraesttructura\\Empleado.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mysistem.api\\Mysistem\\Mysistem.infraesttructura\\Empleado.cs",
+              "RelativeToolTip": "Mysistem.infraesttructura\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:01:16.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

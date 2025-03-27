@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\bin\Debug\net7.0\Mysistem.Domain.deps.json
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\bin\Debug\net7.0\Mysistem.Domain.runtimeconfig.json
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\bin\Debug\net7.0\Mysistem.Domain.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\bin\Debug\net7.0\Mysistem.Domain.pdb
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.sourcelink.json
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\refint\Mysistem.Domain.dll
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.pdb
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\Mysistem.Domain.genruntimeconfig.cache
+C:\Users\DELL\Desktop\mysistem.api\Mysistem\Mysistem.Domain\obj\Debug\net7.0\ref\Mysistem.Domain.dll
